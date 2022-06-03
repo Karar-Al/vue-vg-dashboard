@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Milk",
+    "amount": 2
+  },
+  {
+    "id": 1,
+    "name": "Flour",
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "name": "Eggs",
+    "amount": 1
+  }
+]

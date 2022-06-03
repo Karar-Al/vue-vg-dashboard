@@ -1,0 +1,17 @@
+{
+  "weather": {
+    "main": "Clouds",
+    "description": "broken clouds",
+    "icon": "04d"
+  },
+  "main": {
+    "temp": 15.3,
+    "feels_like": 13.9,
+    "temp_min": 13.94,
+    "temp_max": 15.69,
+    "pressure": 1008,
+    "humidity": 39,
+    "sea_level": 1008,
+    "grnd_level": 1002
+  }
+}

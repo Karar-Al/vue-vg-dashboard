@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Living room",
+    "messages": [
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      },
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      },
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      },
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      },
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      },
+      {
+        "sentDate": 1653918107492,
+        "author": "Karar",
+        "content": "Hello world!"
+      }
+    ]
+  },
+  {
+    "name": "Backrooms",
+    "messages": [
+      {
+        "sentDate": 1653918107492,
+        "author": "?",
+        "content": "despair"
+      }
+    ]
+  },
+  {
+    "name": "Inside the walls",
+    "messages": [
+      {
+        "sentDate": 1653918107492,
+        "author": "KARAR",
+        "content": "HELL WORLD!"
+      }
+    ]
+  }
+]
